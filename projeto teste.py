@@ -20,3 +20,6 @@ elif resposta == player2:
         print("palavra invalida")
 else:
     print("jogador invalido")
+ 
+
+print("terminou o jogo")
